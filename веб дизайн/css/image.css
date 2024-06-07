@@ -1,0 +1,23 @@
+body{
+	background-color: burlywood;
+	background-image: url(https://25.media.tumblr.com/b832028c117cb548614cbea10f0153dc/tumblr_mudg73OFlK1rgpyeqo1_500.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+	background-size: 200px;
+} 
+p{
+	font-size: 70px;
+	background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg);
+}
+.im1{
+	width: revert;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow: 10px 10px 50px greenyellow;
+}
+.im2{
+	width: 1000px;
+	border: ridge 10px brown;
+}

@@ -1,0 +1,40 @@
+body{
+	background-color: cadetblue;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	color: navy;
+	background-color: lemonchiffon;
+}
+table{
+	border: double 2px olivedrab;
+	width: 50%;
+	font-size: 24px;
+}
+th,td{
+	border: solid 1px purple;
+	width: 25%;}
+
+tr::hover{
+	background-color: lavender;
+
+}
+td::hover{
+	background-image: ;
+	font-size: 1.3em;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+}
+tr:hover{
+	background-color: lightgoldenrodyellow;
+}
+td:hover{
+	background-image: url(https://media4.giphy.com/headers/jmckeehen/s2wy7iphPP98.gif);
+	font-weight: 400;
+	text-align: center;
+	text-transform: uppercase;
+
+}

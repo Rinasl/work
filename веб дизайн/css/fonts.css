@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300&family=Bona+Nova&family=Comforter&family=Fira+Sans:wght@100&family=Roboto+Slab:wght@100&family=Rubik+Dirt&family=Rubik+Glitch&family=Rubik+Microbe&family=Ruslan+Display&family=Shantell+Sans:wght@300;400;500&display=swap');</style>
+ body{
+     background-color: greenyellow;
+ }
+ p{
+ 	font-size: 50px;
+ }
+ .p1{
+ 	color: powderblue;
+ 	background: linear-gradient(pink,purple);
+ 	text-align: center;
+ }
+ .p2{
+ 	font-family: cursive ;
+ 	color: orchid ;
+ }
+ .p3{
+ 	font-family: "Bellota";
+ 	font-weight: 400;
+ }
+ .p4{
+ 	font-family: "Bona Nova";
+ }
+.p5{
+	font-family:"Comforter" ;
+}
+.p6{
+	font-family: "Fira Sans";
+}
+.p7{
+	font-family:"Roboto Slab" ;
+	text-decoration: underline;
+	text-decoration-color: fuchsia ;
+}
+.p8{
+	font-family: "Rubik Dirt";
+}
+.p9{
+	font-family: "Shantell Sans";
+}

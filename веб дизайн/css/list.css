@@ -1,0 +1,13 @@
+body{
+	background-color: darkolivegreen;
+}
+p{
+	font-size: 45px;
+	text-align: center;
+	color: black;
+	background-color: darkcyan;
+}
+ul{
+	font-size: 30px;
+	color: darkgoldenrod;
+}
